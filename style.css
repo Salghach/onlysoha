@@ -1,0 +1,79 @@
+/* استایل‌های عمومی */
+body {
+    font-family: 'Tahoma', sans-serif;
+    direction: rtl;
+    background-color: #f8f8f8;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* هدر سایت */
+header {
+    background-color: #6c4f3d;
+    color: white;
+    padding: 30px 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+header p {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+/* بخش بیوگرافی */
+#biography {
+    background-color: #fff;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+#biography h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+#biography p {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+/* بخش علاقه‌ها */
+#interests {
+    background-color: #f2f2f2;
+    padding: 40px 20px;
+}
+
+#interests h2 {
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#interests ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#interests ul li {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+/* فوتر */
+footer {
+    background-color: #6c4f3d;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 40px;
+}
+
+footer p {
+    margin: 0;
+}
